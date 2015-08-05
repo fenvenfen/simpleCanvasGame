@@ -1,0 +1,11 @@
+body{
+	background: #333;
+}
+canvas{
+	display: block;
+	margin: 60px auto 0px;
+}
+#player, #enemy ,#stats{
+	display: block;
+	margin: -500px auto 0px;
+}
